@@ -56,7 +56,7 @@ export default function Header({
   }
 
   return (
-    <header className="bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm shadow-md sticky top-0 z-10 border-b border-transparent dark:border-slate-800">
+    <header className="bg-white/80 dark:bg-slate-900/80 backdrop-blur-sm shadow-md sticky top-0 z-30 border-b border-transparent dark:border-slate-800">
       <div className="max-w-4xl mx-auto py-4 px-5">
         <div className="flex justify-between items-center w-full">
           {isSearching ? (

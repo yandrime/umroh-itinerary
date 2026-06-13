@@ -9,7 +9,7 @@ import BottomNav from "../../components/BottomNav"
 
 interface Prayer {
   prayer_title?: string
-  notes?: string
+  notes?: string | string[]
   arabic: string
   transliteration?: string
   translation: string
@@ -17,7 +17,7 @@ interface Prayer {
 
 interface SubStep {
   title: string
-  notes?: string
+  notes?: string | string[]
   prayer: Prayer
 }
 
@@ -25,7 +25,7 @@ interface Step {
   step_id: string
   step_title: string
   details?: string[]
-  notes?: string
+  notes?: string | string[]
   prayers?: Prayer[]
   sub_steps?: SubStep[]
   post_action?: string
@@ -53,15 +53,16 @@ export default function StepsPage() {
 
   // Filter steps data based on search query
   const getFilteredStages = () => {
+    const typedUmrohStepsData = umrohStepsData as unknown as Stage[];
     if (!searchQuery.trim()) {
-      return umrohStepsData.map((stage, sIdx) => ({
+      return typedUmrohStepsData.map((stage, sIdx) => ({
         ...stage,
         originalIndex: sIdx
       }));
     }
     
     const query = searchQuery.toLowerCase().trim();
-    return umrohStepsData.map((stage, sIdx) => {
+    return typedUmrohStepsData.map((stage, sIdx) => {
       const stageMatches = stage.stage_title.toLowerCase().includes(query);
       
       const filteredSteps = stage.steps.filter((step) => {
@@ -196,7 +197,15 @@ export default function StepsPage() {
                           {/* Step Notes */}
                           {step.notes && (
                             <div className="mb-2.5 p-2.5 bg-blue-50 dark:bg-blue-900/20 rounded-lg">
-                              <p className="text-sm text-blue-800 dark:text-blue-300 font-medium">📝 {step.notes}</p>
+                              {Array.isArray(step.notes) ? (
+                                <ul className="list-disc list-inside space-y-1 text-sm text-blue-800 dark:text-blue-300 font-medium">
+                                  {step.notes.map((note, nIdx) => (
+                                    <li key={nIdx} className="inline-block w-full">📝 {note}</li>
+                                  ))}
+                                </ul>
+                              ) : (
+                                <p className="text-sm text-blue-800 dark:text-blue-300 font-medium">📝 {step.notes}</p>
+                              )}
                             </div>
                           )}
 
@@ -212,7 +221,7 @@ export default function StepsPage() {
                                   )}
                                   {prayer.notes && (
                                     <p className="text-xs text-gray-600 dark:text-slate-400 mb-1.5 italic">
-                                      {prayer.notes}
+                                      {Array.isArray(prayer.notes) ? prayer.notes.join(". ") : prayer.notes}
                                     </p>
                                   )}
                                   <div className="space-y-2">
@@ -248,7 +257,9 @@ export default function StepsPage() {
                                     {subStep.title}
                                   </h4>
                                   {subStep.notes && (
-                                    <p className="text-sm text-gray-600 dark:text-slate-400 mb-1.5">{subStep.notes}</p>
+                                    <p className="text-sm text-gray-600 dark:text-slate-400 mb-1.5">
+                                      {Array.isArray(subStep.notes) ? subStep.notes.join(". ") : subStep.notes}
+                                    </p>
                                   )}
                                   <div className="bg-gray-50 dark:bg-slate-700/50 rounded-lg p-2.5">
                                     <p
