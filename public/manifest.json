@@ -1,0 +1,27 @@
+{
+  "name": "Umroh AY",
+  "short_name": "Umroh AY",
+  "description": "Aplikasi itinerary umroh lengkap untuk perjalanan ibadah dari Bandung ke Tanah Suci",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo-ss-umroh.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/logo-ss-umroh.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["travel", "lifestyle", "productivity"],
+  "lang": "id",
+  "dir": "ltr"
+}

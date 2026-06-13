@@ -1,0 +1,234 @@
+[
+  {
+    "stage_id": "tahap-1",
+    "stage_title": "Tahap 1: Persiapan dan Ihram di Miqat",
+    "steps": [
+      {
+        "step_id": "1-1",
+        "step_title": "Membersihkan Diri (Sunnah)",
+        "details": ["Mandi besar, potong kuku, dan rapikan diri.", "Memakai wewangian di badan (bagi laki-laki)."]
+      },
+      {
+        "step_id": "1-2",
+        "step_title": "Mengenakan Pakaian Ihram",
+        "details": ["Laki-laki: Dua lembar kain putih tanpa jahitan yang dililitkan ke tubuh, tidak boleh pakaian yang membentuk lekuk tubuh seperti kemeja atau celana.", "Perempuan: Pakaian syar'i, sopan dan longgar yang menutup seluruh tubuh, namun dilarang memakai cadar (penutup wajah) dan sarung tangan."]
+      },
+      {
+        "step_id": "1-3",
+        "step_title": "Tempat Miqat",
+        "details": ["Dzulhulaifah: Bir Ali, bagi penduduk Madinah dan sekitarnya (termasuk jamaah haji Indonesia gelombang pertama yang mendarat di Madinah). ± 450 km","Al-Juhfah: Dekat kota Rabigh, bagi penduduk Syam (Suriah, Yordania, Palestina, Lebanon), Mesir, dan wilayah Maghrib (Afrika Utara). ± 187 km.","Qarnul Manazil: As-Sail al-Kabir, bagi penduduk Najd (Riyadh dan sekitarnya), serta jamaah yang datang dari arah timur Mekkah seperti Dubai. ± 94 km.","Yalamlam: As-Sa'diyah, bagi penduduk Yaman dan jamaah yang datang dari arah selatan seperti Indonesia, Malaysia, dan negara-negara Asia Tenggara lainnya. ± 54 km.","Dzatu 'Irqin: Adh-Dharibah, bagi penduduk Irak dan jamaah yang datang dari arah timur laut. ± 94 km."]
+      },      
+      {
+        "step_id": "1-4",
+        "step_title": "Melaksanakan Niat di Miqat",
+        "notes": "Arah: Dianjurkan menghadap kiblat saat akan berniat.",
+        "prayers": [
+          {
+            "prayer_title": "Niat Umroh",
+            "notes": "Diucapkan setelah shalat sunnah (jika memungkinkan).",
+            "arabic": "لَبَّيْكَ اللَّهُمَّ عُمْرَةً",
+            "transliteration": "Labbaikallahumma 'umratan.",
+            "translation": "Aku penuhi panggilan-Mu ya Allah untuk menjalankan umrah."
+          },
+          {
+            "prayer_title": "Niat Bersyarat (Jika khawatir ada halangan)",
+            "arabic": "اللَّهُمَّ مَحِلَي حَيْثُ حَبَسْتَنِي",
+            "transliteration": "Allahumma mahilli haitsu habastani.",
+            "translation": "Ya Allah, tempat tahallulku adalah di mana pun Engkau menahanku."
+          }
+        ]
+      },
+      {
+        "step_id": "1-5",
+        "step_title": "Membaca Talbiyah",
+        "notes": "Mulai membaca Talbiyah berulang kali hingga akan memulai Thawaf.",
+        "prayers": [
+          {
+            "prayer_title": "Bacaan Talbiyah",
+            "notes": "Laki-laki sunnah mengeraskan suaranya.",
+            "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
+            "transliteration": "Labbaykallahumma labbayk. Labbayka lä syarika laka labbayk. Innal-hamda wan-ni'mata, laka wal-mulk, la syarīka lak.",
+            "translation": "Aku penuhi panggilan-Mu, ya Allah, aku penuhi panggilan-Mu. Aku penuhi panggilan-Mu, tiada sekutu bagi-Mu, aku penuhi panggilan-Mu. Sesungguhnya segala puji, nikmat, dan kekuasaan hanyalah milik-Mu, tiada sekutu bagi-Mu."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stage_id": "tahap-2",
+    "stage_title": "Tahap 2: Thawaf di Masjidil Haram",
+    "steps": [
+      {
+        "step_id": "2-1",
+        "step_title": "Masuk Makkah",
+        "notes": "Membaca doa khusus saat memasuki Kota Makkah sebagaimana diriwayatkan imam nawawi.",
+        "prayers": [
+          {
+            "prayer_title": "Doa Saat Masuk Kota Makkah",
+            "arabic": "اللَّهُمَّ هَذَا حَرَمُكَ وَأَمْنُكَ ، فَحَرِمْ لَحْمِي وَدَمِيْ وَبَشَرِيْ عَلَى النَّارِ وَ آمِنِي مِنْ عَذَابِكَ يَوْمَ تَبْعَثُ عِبَادَكَ، وَاجْعَلْنِي مِنْ أَوْلِيَا بِكَ وَأَهْلِ طَاعَتِكَ، يَارَبَّ الْعَالَمِينَ",
+            "transliteration": "Allahumma haadzaa haramuka wa amnuka, faharrim lahmii wa damii wa basyarii 'alan-naar. Wa aaminii min 'adzaabika yauma tab'atsu 'ibaadaka, waj'alnii min auliyaa-ika wa ahli thaa'atika, yaa rabbal 'aalamiin.",
+            "translation": "Ya Allah, ini adalah tanah haram-Mu dan negeri aman-Mu. Haramkanlah daging, darah dan kulitku atas api neraka. Dan amankanlah aku dari azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu. Dan jadikanlah aku termasuk kelompok kekasih-Mu dan orang-orang yang rajin serta taat kepada-Mu, wahai Rabb seru sekalian alam."
+          }
+        ]
+      },
+      {
+        "step_id": "2-2",
+        "step_title": "Masuk Masjidil Haram",
+        "notes": "Arah: Mendahulukan kaki kanan saat masuk dan membaca doa.",
+        "prayers": [
+          {
+            "prayer_title": "Doa Masuk Masjid",
+            "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+            "transliteration": "Allahummaftahli abwaaba rahmatik.",
+            "translation": "Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu."
+          }
+        ]
+      },
+      {
+        "step_id": "2-3",
+        "step_title": "Saat Pertama Kali Melihat Ka'bah",
+        "notes": "Berhenti membaca Talbiyah. Angkat kedua tangan dan berdoa.",
+        "prayers": [
+          {
+            "prayer_title": "Doa Melihat Ka'bah",
+            "arabic": "اللَّهُمَّ أَنْتَ السَّلامُ، وَمِنْكَ السَّلَامُ، فَحَيْنَا رَبَّنَا بِالسَّلَامِ",
+            "transliteration": "Allahumma antas-salām, wa minkas-salām, fahayyinā rabbanā bis-salām.",
+            "translation": "Ya Allah, Engkaulah As-Salam (Maha Pemberi Keselamatan), dan dari-Mu-lah segala keselamatan. Maka hidupkanlah kami, wahai Tuhan kami, dengan selamat sejahtera."
+          }
+        ]
+      },
+      {
+        "step_id": "2-4",
+        "step_title": "Memulai Thawaf (7 Putaran)",
+        "notes": "Arah & Posisi: Berputar melawan arah jarum jam, dengan posisi Ka'bah selalu berada di sebelah kiri Anda.",
+        "details": [
+          "Pastikan dalam keadaan berwudhu.",
+          "Buka pundak sebelah kanan bagi laki-laki.",
+          "Putaran 1, 2, dan 3: Jamaah laki-laki disunnahkan untuk melakukan raml, yaitu berjalan cepat dengan langkah-langkah pendek."
+        ],
+        "sub_steps": [
+          {
+            "title": "Mulai dari Hajar Aswad",
+            "notes": "Mulai dari garis Hajar Aswad, beri isyarat dengan tangan kanan (istilam) dan ucapkan:",
+            "prayer": {
+              "arabic": "بِسْمِ اللَّهِ، وَاللَّهُ أَكْبَرُ",
+              "transliteration": "Bismillāhi, wallāhu akbar.",
+              "translation": "Dengan nama Allah, dan Allah Maha Besar."
+            }
+          },
+          {
+            "title": "Doa Antara Rukun Yamani & Hajar Aswad",
+            "prayer": {
+              "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+              "transliteration": "Rabbanā, ātinā fid-dunyā hasanah, wa fil-akhirati hasanah, wa qinā adzāban-nār.",
+              "translation": "Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+            }
+          }
+        ],
+        "post_action": "Selama thawaf bisa diisi berdzikir, tilawah dan berdoa."
+      },
+      {
+        "step_id": "2-5",
+        "step_title": "Setelah Selesai Thawaf",
+        "notes": ["Arah: Tutup kedua pundak bagi laki-laki. Menuju ke belakang Maqam Ibrahim untuk shalat."],
+        "prayers": [
+          {
+            "prayer_title": "Bacaan Sebelum Shalat Sunnah Thawaf",
+            "arabic": "وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلَّى",
+            "transliteration": "Wattakhidzuu min maqoomi ibroohiima musholla.",
+            "translation": "Dan jadikanlah sebagian maqam Ibrahim tempat shalat."
+          }
+        ],
+        "post_action": "Laksanakan Shalat Sunnah Thawaf 2 rakaat. Rakaat ke-1 Al-Kafirun, rakaat ke-2 Al-Ikhlas."
+      },
+      {
+        "step_id": "2-6",
+        "step_title": "Minum Air Zamzam",
+        "notes": "Arah: Disunnahkan menghadap Ka'bah saat minum dan berdoa.",
+        "prayers": [
+          {
+            "prayer_title": "Doa Minum Air Zamzam",
+            "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا وَاسِعًا، وَشِفَاءً مِنْ كُلِّ دَاءٍ",
+            "transliteration": "Allāhumma innī as-aluka 'ilman nāfi'an, wa rizqan wāsi'an, wa syifa'an min kulli dā-in.",
+            "translation": "Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang luas, dan kesembuhan dari segala penyakit."
+          }
+        ],
+        "post_action": "Air Zamzam itu berkhasiat sesuai dengan apa yang diniatkan (ketika meminumnya). (HR. Ibnu Majah, dinilai shahih oleh sebagian ulama)." 
+      }
+    ]
+  },
+  {
+    "stage_id": "tahap-3",
+    "stage_title": "Tahap 3: Sa'i antara Shafa dan Marwah",
+    "steps": [
+      {
+        "step_id": "3-1",
+        "step_title": "Menuju Bukit Shafa",
+        "notes": "Arah: Sesaat sebelum sampai di Shafa.",
+        "prayers": [
+          {
+            "prayer_title": "Saat Mendekati Shafa",
+            "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ",
+            "transliteration": "Innas-shafaa wal marwata min sya'aa-irillaah...",
+            "translation": "Sesungguhnya Shafa dan Marwah adalah sebagian dari syi'ar Allah..."
+          },
+          {
+            "prayer_title": "Lanjutan",
+            "arabic": "أَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ",
+            "transliteration": "Abda-u bimaa bada-allaahu bih.",
+            "translation": "Aku memulai dengan apa yang Allah memulainya."
+          }
+        ],
+        "post_action": "Cukup dibaca sekali di awal saja."        
+      },
+      {
+        "step_id": "3-2",
+        "step_title": "Dzikir dan Doa di Atas Bukit Shafa & Marwah",
+        "notes": "Arah: Di atas Shafa & Marwah sambil menghadap Ka'bah dan mengangkat tangan (doa).",
+        "prayers": [
+          {
+            "prayer_title": "Dzikir di bukit Shafa & Marwah",
+            "notes": "Dibaca 3 kali.",
+            "arabic": "اللهُ أَكْبَرُ، اللَّهُ أَكْبَرُ ، اللهُ أَكْبَرُ. لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ، أَنْجَزَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزَابَ وَحْدَهُ",
+            "translation": "Allah Maha Besar (3x). Tiada Tuhan selain Allah semata, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan pujian. Dia-lah Yang Maha Kuasa atas segala sesuatu. Tiada Tuhan selain Allah semata. Dia menepati janji-Nya, menolong hamba-Nya, dan mengalahkan golongan musuh sendirian."
+          }
+        ],
+        "post_action": "Setiap bada dzikir panjatkan doa karena saat mustajab."        
+      },
+      {
+        "step_id": "3-3",
+        "step_title": "Pelaksanaan Sa'i (7 Perjalanan)",
+        "notes": "Arah: Dimulai dari Shafa ke Marwah (hitungan ke-1), dan akan berakhir di Marwah.",
+        "prayers": [
+          {
+            "prayer_title": "Doa Selama Perjalanan Sa'i",
+            "arabic": "رَبِّ اغْفِرْ وَارْحَمْ، وَأَنْتَ الْأَعَزُّ الْأَكْرَمُ",
+            "transliteration": "Rabbighfir warham, wa antal a'azzul akram.",
+            "translation": "Ya Tuhanku, ampunilah dan berilah rahmat. Sesungguhnya Engkau Maha Perkasa lagi Maha Pemurah."
+          }
+        ],
+        "post_action": "Dianjurkan untuk dibaca selama perjalanan."        
+      }
+    ]
+  },
+  {
+    "stage_id": "tahap-4",
+    "stage_title": "Tahap 4: Tahallul (Mencukur Rambut)",
+    "steps": [
+      {
+        "step_id": "4-1",
+        "step_title": "Pelaksanaan Tahallul",
+        "details": [
+          "Dilakukan setelah Sa'i berakhir di bukit Marwah.",
+          "Bagi Laki-laki: Lebih utama menggunduli rambut (halq).",
+          "Bagi Perempuan: Cukup memotong beberapa helai rambut."
+        ]
+      },
+      {
+        "step_id": "4-2",
+        "step_title": "Selesai Umroh",
+        "details": ["Dengan bertahallul, maka selesailah rangkaian ibadah umroh."]
+      }
+    ]
+  }
+]

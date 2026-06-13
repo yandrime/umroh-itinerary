@@ -1,0 +1,206 @@
+[
+    {
+        "day": "Pra-Keberangkatan",
+        "title": "Persiapan Akhir di Bandung",
+        "icon": "package",
+        "tasks": [
+            { "time": "H-7", "description": "Konfirmasi dokumen (Paspor, Visa, Tiket) & suntik meningitis." },
+            { "time": "H-3", "description": "Mulai packing koper: pakaian ihram, pakaian sehari-hari, obat-obatan pribadi." },
+            { "time": "H-1", "description": "Tukar uang Riyal Saudi secukupnya untuk keperluan awal." },
+            { "time": "H-1 Sore", "description": "Manasik umroh terakhir dan doa bersama keluarga." },
+            { "time": "H-1 Malam", "description": "Istirahat yang cukup, pastikan semua koper sudah siap." }
+        ]
+    },
+    {
+        "day": "Hari 1",
+        "title": "Perjalanan & Persiapan Keberangkatan",
+        "icon": "luggage",
+        "tasks": [
+            { "time": "10:00-11:00", "description": "Fiksasi Koper." },
+            { "time": "13:30-14:00", "description": "Perjalanan dari Rumah ke SMA 3." },
+            { "time": "14:00-16:30", "description": "Perjalanan dari Bandung (BDG) ke Bandara Soekarno-Hatta (CGK)." },
+            { "time": "16:30-17:00", "description": "Makan Malam." },
+            { "time": "17:00", "description": "Check-in di Hotel Bandara." },
+            { "time": "17:00-04:00", "description": "Istirahat." }
+        ]
+    },
+    {
+        "day": "Hari 2",
+        "title": "Penerbangan Menuju Madinah",
+        "icon": "flight",
+        "tasks": [
+            { "time": "05:30-05:45", "description": "Check-out dari Hotel Bandara." },
+            { "time": "05:45-06:15", "description": "Perjalanan dari Hotel Bandara ke Parkir Bandara." },
+            { "time": "06:15-06:45", "description": "Perjalanan dari Parkir Bandara ke Terminal 3." },
+            { "time": "06:45-07:15", "description": "Sarapan dan menuju Boarding Gate." },
+            { "time": "07:15-09:00", "description": "Menunggu di Boarding Gate." },
+            { "time": "09:20-12:15", "description": "Penerbangan dari Jakarta (CGK) ke Singapura (SIN)." },
+            { "time": "13:00-14:00", "description": "Transit di Jewel Changi Airport, makan siang, dan shalat." },
+            { "time": "15:00-15:45", "description": "Menuju Boarding Gate." },
+            { "time": "16:05-20:35", "description": "Penerbangan dari Singapura (SIN) ke Jeddah (JED)." },
+            { "time": "21:30-22:00", "description": "Proses imigrasi dan bagasi di Terminal 1 JED." },
+            { "time": "22:00-03:00", "description": "Perjalanan darat dari Jeddah ke Madinah." }
+        ]
+    },
+    {
+        "day": "Hari 3",
+        "title": "Tiba di Madinah & Ibadah Jumat",
+        "icon": "mosque",
+        "tasks": [
+            { "time": "03:00-03:30", "description": "Check-in di Hotel Pullman Zamzam." },
+            { "time": "04:30-06:00", "description": "Shalat Subuh dan Syuruq." },
+            { "time": "06:00-07:00", "description": "Membeli sarapan." },
+            { "time": "09:00-13:00", "description": "Shalat Dhuha, Itikaf, dan Shalat Jumat." },
+            { "time": "13:00-14:00", "description": "Makan Siang di Al-Baik dan belanja di Lulu/BinDawood." },
+            { "time": "15:00-16:00", "description": "Shalat Ashar." },
+            { "time": "16:00-17:00", "description": "Itikaf." },
+            { "time": "17:00-18:00", "description": "Membeli makan malam di Zaitoon." },
+            { "time": "18:00-21:00", "description": "Shalat Magrib dan Isya." },
+            { "time": "21:20-21:50", "description": "Ziarah ke Raudhah untuk Akhwat." },
+            { "time": "22:00-03:30", "description": "Istirahat." }
+        ]
+    },
+    {
+        "day": "Hari 4",
+        "title": "Ziarah & Keliling Kota Madinah",
+        "icon": "tour",
+        "tasks": [
+            { "time": "03:30-06:00", "description": "Ziarah Raudhah (Ikhwan), Shalat Lail, Subuh, dan Syuruq." },
+            { "time": "06:00-07:00", "description": "Sarapan." },
+            { "time": "08:00-11:00", "description": "Tur keliling Madinah dengan Hop On Hop Off, Shalat Dhuha di Masjid Quba." },
+            { "time": "11:00-12:00", "description": "Makan Siang." },
+            { "time": "12:00-13:00", "description": "Shalat Zuhur." },
+            { "time": "13:00-15:00", "description": "Belanja kebutuhan di Lulu/Bin Dawood." },
+            { "time": "15:00-16:00", "description": "Shalat Ashar dan membeli makan malam." },
+            { "time": "18:00-20:00", "description": "Shalat Magrib dan Isya." },
+            { "time": "20:00-21:00", "description": "Jalan-jalan malam." },
+            { "time": "21:20-21:50", "description": "Ziarah ke Raudhah untuk Ummi." },
+            { "time": "22:00-03:30", "description": "Istirahat." }
+        ]
+    },
+    {
+        "day": "Hari 5",
+        "title": "Memperdalam Ibadah di Madinah",
+        "icon": "mosque",
+        "tasks": [
+            { "time": "04:00-06:00", "description": "Shalat Lail, Subuh, dan Syuruq." },
+            { "time": "06:00-08:00", "description": "Sarapan dan mengunjungi area As-Syafiyah." },
+            { "time": "11:00-13:00", "description": "Shalat Zuhur dan Itikaf." },
+            { "time": "13:00-14:00", "description": "Membeli makan siang." },
+            { "time": "15:00-16:00", "description": "Shalat Ashar." },
+            { "time": "16:00-18:00", "description": "Mengunjungi The Old Souk dan Masjid Ghamamah." },
+            { "time": "18:00-20:00", "description": "Shalat Magrib dan Isya." },
+            { "time": "20:00-21:00", "description": "Makan malam dan belanja di Lulu/Bin Dawood." },
+            { "time": "21:00-22:00", "description": "Packing persiapan ke Makkah." },
+            { "time": "22:00-03:30", "description": "Istirahat." }
+        ]
+    },
+    {
+        "day": "Hari 6",
+        "title": "Menuju Makkah & Umroh Pertama",
+        "icon": "send",
+        "tasks": [
+            { "time": "04:00-06:00", "description": "Shalat Lail, Subuh, dan Syuruq." },
+            { "time": "06:00-07:00", "description": "Sarapan." },
+            { "time": "07:00-08:00", "description": "Itikaf Wada." },
+            { "time": "09:00-10:00", "description": "Fiksasi Koper dan bersiap Ihram." },
+            { "time": "10:30-11:00", "description": "Check-out dari Pullman Madinah." },
+            { "time": "11:00-11:30", "description": "Perjalanan menuju stasiun kereta cepat (HHR) Madinah." },
+            { "time": "11:30-12:30", "description": "Check-in di HHR dan makan siang." },
+            { "time": "12:30-14:50", "description": "Perjalanan kereta cepat dari Madinah ke Makkah." },
+            { "time": "15:30-16:00", "description": "Check-in di Swissotel Makkah." },
+            { "time": "16:30-21:00", "description": "Pelaksanaan UMROH PERTAMA (termasuk Shalat Zuhur, Ashar, Magrib, Isya)." },
+            { "time": "21:00-22:00", "description": "Makan Malam." },
+            { "time": "22:00-03:00", "description": "Istirahat." }
+        ]
+    },
+    {
+        "day": "Hari 7",
+        "title": "Ibadah di Masjidil Haram",
+        "icon": "mosque",
+        "tasks": [
+            { "time": "03:30-06:00", "description": "Shalat Lail, Subuh, Tawaf, dan Syuruq." },
+            { "time": "06:00-07:00", "description": "Membeli Sarapan." },
+            { "time": "10:00-13:00", "description": "Shalat Dhuha dan Zuhur." },
+            { "time": "13:00-14:00", "description": "Makan siang dan belanja di Abraj/Bin Dawood." },
+            { "time": "15:00-16:00", "description": "Shalat Ashar." },
+            { "time": "17:00-20:00", "description": "Shalat Magrib dan Isya." },
+            { "time": "20:00-21:00", "description": "Makan Malam." },
+            { "time": "21:00-03:30", "description": "Istirahat." }
+        ]
+    },
+    {
+        "day": "Hari 8",
+        "title": "Trip ke Thaif & Umroh Kedua",
+        "icon": "tour",
+        "tasks": [
+            { "time": "04:00-06:00", "description": "Shalat Lail, Subuh, dan Syuruq." },
+            { "time": "06:00-07:00", "description": "Membeli sarapan." },
+            { "time": "08:00-16:00", "description": "Perjalanan ke Thaif (termasuk Teleferic, Toboggan) dan mengambil Miqat di Qarnul Manazil." },
+            { "time": "16:00-20:00", "description": "Pelaksanaan UMROH KEDUA." },
+            { "time": "17:00-20:00", "description": "Shalat Magrib dan Isya." },
+            { "time": "20:00-21:00", "description": "Membeli Makan Malam." },
+            { "time": "21:00-03:00", "description": "Istirahat." }
+        ]
+    },
+    {
+        "day": "Hari 9",
+        "title": "Menikmati Makkah & Sekitarnya",
+        "icon": "mosque",
+        "tasks": [
+            { "time": "03:30-06:00", "description": "Shalat Lail, Subuh, Tawaf, dan Syuruq." },
+            { "time": "06:00-08:00", "description": "Sarapan, mencari spot foto, dan belanja di Abraj/Bin Dawood." },
+            { "time": "11:00-13:00", "description": "Shalat Zuhur dan makan siang." },
+            { "time": "14:00-16:00", "description": "Shalat Ashar." },
+            { "time": "16:00-17:00", "description": "Mengunjungi Jabal Kudai." },
+            { "time": "17:00-20:00", "description": "Shalat Magrib dan Isya." },
+            { "time": "20:00-21:00", "description": "Membeli makan malam." },
+            { "time": "21:00-03:30", "description": "Istirahat." }
+        ]
+    },
+    {
+        "day": "Hari 10",
+        "title": "Ibadah Jumat di Makkah & Belanja",
+        "icon": "shopping_cart",
+        "tasks": [
+            { "time": "04:00-06:00", "description": "Shalat Lail, Subuh, dan Syuruq." },
+            { "time": "06:00-08:00", "description": "Sarapan, berburu oleh-oleh di Abraj Avenue, dan belanja di Abraj/Bin Dawood." },
+            { "time": "10:00-13:00", "description": "Tawaf dan Shalat Jumat." },
+            { "time": "13:00-14:00", "description": "Makan Siang." },
+            { "time": "14:00-16:00", "description": "Shalat Ashar." },
+            { "time": "17:00-20:00", "description": "Shalat Magrib dan Isya." },
+            { "time": "20:00-21:00", "description": "Makan Malam." },
+            { "time": "21:00-22:00", "description": "Packing." },
+            { "time": "22:00-03:30", "description": "Istirahat." }
+        ]
+    },
+    {
+        "day": "Hari 11",
+        "title": "Tawaf Wada & Perjalanan Pulang",
+        "icon": "send",
+        "tasks": [
+            { "time": "04:00-06:00", "description": "Shalat Lail, Subuh, dan Tawaf Wada." },
+            { "time": "06:00-08:00", "description": "Sarapan dan belanja di Abraj/Bin Dawood." },
+            { "time": "08:00-09:00", "description": "Packing akhir." },
+            { "time": "09:00-10:00", "description": "Check-out dari Swissotel Makkah." },
+            { "time": "11:00-13:00", "description": "Shalat Zuhur dan Ashar (Jama')." },
+            { "time": "14:00-15:00", "description": "Perjalanan dari Makkah ke Jeddah." },
+            { "time": "15:00-17:00", "description": "City Tour di Jeddah." },
+            { "time": "17:00-18:00", "description": "Perjalanan ke Bandara JED dan membeli Air Zamzam." },
+            { "time": "18:00-19:00", "description": "Proses check-in di bandara." },
+            { "time": "19:00-21:30", "description": "Menunggu di Boarding Gate." },
+            { "time": "21:50-12:35", "description": "Penerbangan dari Jeddah (JED) ke Singapura (SIN)." }
+        ]
+    },
+    {
+        "day": "Hari 12",
+        "title": "Tiba Kembali di Tanah Air",
+        "icon": "home",
+        "tasks": [
+            { "time": "13:30-14:30", "description": "Transit di Jewel, makan siang, dan shalat." },
+            { "time": "15:00-16:00", "description": "Menuju Boarding Gate." },
+            { "time": "16:20-17:10", "description": "Penerbangan dari Singapura (SIN) ke Jakarta (CGK)." },
+            { "time": "19:00-22:00", "description": "Perjalanan dari Bandara Soekarno-Hatta (CGK) kembali ke Bandung." }
+        ]
+    }
+]
