@@ -1,6 +1,6 @@
 {
-  "name": "Umroh AY",
-  "short_name": "Umroh AY",
+  "name": "Umroh Itinerary",
+  "short_name": "Umroh Itinerary",
   "description": "Aplikasi itinerary umroh lengkap untuk perjalanan ibadah dari Bandung ke Tanah Suci",
   "start_url": "/",
   "display": "standalone",

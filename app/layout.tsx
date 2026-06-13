@@ -17,14 +17,14 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Umroh AY",
+    title: "Umroh Itinerary",
   },
   formatDetection: {
     telephone: false,
   },
   openGraph: {
     type: "website",
-    siteName: "Umroh AY",
+    siteName: "Umroh Itinerary",
     title: "Umroh Itinerary",
     description: "Aplikasi itinerary umroh lengkap",
   },
