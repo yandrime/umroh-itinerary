@@ -1,0 +1,154 @@
+[
+    {
+        "day": "Hari 1",
+        "title": "Keberangkatan & Perjalanan Menuju Jakarta",
+        "icon": "luggage",
+        "tasks": [
+            { "time": "15:00", "description": "Jamaah berkumpul di Kantor SS Umroh dengan menggunakan seragam." },
+            { "time": "16:00-19:00", "description": "Perjalanan dari Kantor SS Umroh Bandung ke Jakarta (Opsional)." },
+            { "time": "19:00", "description": "Jamaah berkumpul di Lounge Bandara Soekarno-Hatta untuk makan malam, pembagian ID Card, Boarding Pass, paspor, serta penjelasan teknis." },
+            { "time": "21:00", "description": "Jamaah diarahkan menuju Imigrasi Bandara dan langsung menuju Gate[cite: 1, 2]." }
+        ]
+    },
+    {
+        "day": "Hari 2",
+        "title": "Penerbangan Ke Jeddah & Tiba di Madinah",
+        "icon": "flight",
+        "tasks": [
+            { "time": "00:40", "description": "Take off dari Bandara Soekarno-Hatta menuju Bandara Internasional King Abdul Aziz (KAA) Jeddah menggunakan Saudia Airlines SV 827[cite: 1, 3]." },
+            { "time": "06:15", "description": "Tiba di Jeddah, melalui proses imigrasi bandara, dan bersiap naik bus menuju Madinah[cite: 1, 3]." },
+            { "time": "08:30-15:00", "description": "Perjalanan darat menuju Kota Madinah (sarapan di perjalanan)[cite: 1, 3]." },
+            { "time": "15:00-17:00", "description": "Tiba di Madinah, menuju Masjid Quba untuk Shalat Zuhur dan Ashar (Jamak), makan siang di restoran, lalu kembali ke bus[cite: 1, 3]." },
+            { "time": "17:30", "description": "Tiba di Hotel Madinah (ODST Hotel/Setaraf) untuk proses penyimpanan koper[cite: 1, 3]." },
+            { "time": "18:00", "description": "Proses check-in hotel, pembagian kunci kamar, dan makan malam[cite: 1, 3]." },
+            { "time": "19:00-21:00", "description": "Persiapan dan pelaksanaan Shalat Magrib dan Isya berjamaah, dzikir, serta membaca Al-Qur'an[cite: 1, 3]." },
+            { "time": "22:00", "description": "Ba'da Shalat Isya, jamaah kembali ke hotel untuk istirahat[cite: 1, 4]." }
+        ]
+    },
+    {
+        "day": "Hari 3",
+        "title": "Ibadah di Masjid Nabawi & Ziarah Dalam Kota",
+        "icon": "mosque",
+        "tasks": [
+            { "time": "03:00", "description": "Bersiap melaksanakan Shalat Malam dan langsung mengikuti Shalat Subuh berjamaah di Masjid Nabawi[cite: 1, 4]." },
+            { "time": "05:00", "description": "Mengunjungi Raudhah di Masjid Nabawi (Tentative sesuai jadwal ikhwan/akhwat)[cite: 1, 4]." },
+            { "time": "07:00", "description": "Sarapan pagi di hotel[cite: 1, 4]." },
+            { "time": "08:00-11:00", "description": "Istirahat atau memperbanyak ibadah di Masjid Nabawi[cite: 1, 4]." },
+            { "time": "11:00", "description": "Persiapan & Shalat Zuhur berjamaah di Masjid Nabawi[cite: 1, 4]." },
+            { "time": "13:00", "description": "Makan siang di hotel dan dilanjutkan istirahat/memperbanyak ibadah[cite: 1, 4]." },
+            { "time": "15:00", "description": "Persiapan Shalat Ashar[cite: 1, 4]." },
+            { "time": "15:30-18:00", "description": "Ba'da Ashar mengikuti kajian dan ziarah keliling Masjid Nabawi (Saqifah Bani Saidah, Masjid Ali, Masjid Abu Bakar, Masjid Ghamamah, Pemakaman Baqi)[cite: 1, 4, 5]." },
+            { "time": "17:30-20:00", "description": "Persiapan Shalat Magrib, dzikir, membaca Qur'an hingga Shalat Isya berjamaah[cite: 1, 5]." },
+            { "time": "20:00", "description": "Ba'da Isya, kembali ke hotel untuk makan malam[cite: 1, 5]." },
+            { "time": "22:00", "description": "Istirahat malam[cite: 1, 5]." }
+        ]
+    },
+    {
+        "day": "Hari 4",
+        "title": "City Tour Madinah & Pemantapan Manasik",
+        "icon": "tour",
+        "tasks": [
+            { "time": "03:00", "description": "Bersiap melaksanakan Shalat Malam dan Shalat Subuh berjamaah di Masjid Nabawi[cite: 1, 5]." },
+            { "time": "07:00", "description": "Sarapan pagi di hotel dan persiapan ziarah kota Madinah[cite: 1, 5]." },
+            { "time": "07:30", "description": "Berkumpul di lobi hotel (kondisi punya wudhu) untuk ziarah ke Jabal Uhud, Kebun & Pasar Kurma, serta Masjid Quba[cite: 1, 5, 6]." },
+            { "time": "11:30", "description": "Persiapan dan Shalat Zuhur berjamaah di Masjid Nabawi[cite: 1, 6]." },
+            { "time": "13:00", "description": "Makan siang di hotel, dilanjutkan istirahat atau memperbanyak ibadah[cite: 1, 6]." },
+            { "time": "15:30", "description": "Shalat Ashar di Masjid Nabawi[cite: 1, 6]." },
+            { "time": "16:30-18:00", "description": "Pemantapan manasik oleh Pembimbing Ibadah[cite: 1, 6]." },
+            { "time": "18:00-19:30", "description": "Shalat Magrib berjamaah, dzikir, membaca Qur'an hingga Shalat Isya berjamaah[cite: 1, 6]." },
+            { "time": "20:00", "description": "Makan malam di hotel[cite: 1, 6]." },
+            { "time": "21:00", "description": "Packing koper untuk persiapan menuju Makkah[cite: 1, 6]." },
+            { "time": "23:00", "description": "Istirahat[cite: 1, 6]." }
+        ]
+    },
+    {
+        "day": "Hari 5",
+        "title": "Perjalanan ke Makkah & Umroh Wajib",
+        "icon": "send",
+        "tasks": [
+            { "time": "03:00", "description": "Shalat Malam dan Shalat Subuh berjamaah di Masjid Nabawi, dilanjutkan mengenakan kain ihram[cite: 1, 6, 7]." },
+            { "time": "07:00", "description": "Sarapan pagi[cite: 1, 7]." },
+            { "time": "09:00", "description": "Seluruh koper sudah dipersiapkan di depan kamar hotel masing-masing[cite: 1, 7]." },
+            { "time": "11:00", "description": "Persiapan Shalat Zuhur dan Ashar (Jamak), dilanjutkan wada' dan muhasabah[cite: 1, 7]." },
+            { "time": "13:30", "description": "Makan siang di hotel dan berkumpul di lobi[cite: 1, 7]." },
+            { "time": "14:00", "description": "Naik bus menuju Stasiun Kereta Cepat (HHR) Madinah[cite: 1, 7]." },
+            { "time": "15:50", "description": "Bertolak menuju Makkah menggunakan kereta cepat, mengambil niat ihram di dalam kereta[cite: 1, 8]." },
+            { "time": "18:05", "description": "Tiba di Kota Makkah[cite: 1, 8]." },
+            { "time": "19:00", "description": "Check-in hotel (Maysan Al Maqam Hotel/Setaraf), pembagian kunci, dan makan malam[cite: 1, 8]." },
+            { "time": "22:00-01:00", "description": "Shalat Magrib & Isya (Jamak) di Masjidil Haram, dilanjutkan prosesi Umroh Pertama (Thawaf, Sa'i, Tahallul), lalu istirahat[cite: 1, 8, 9]." }
+        ]
+    },
+    {
+        "day": "Hari 6",
+        "title": "Ibadah Jumat di Masjidil Haram",
+        "icon": "mosque",
+        "tasks": [
+            { "time": "04:00", "description": "Persiapan Shalat Subuh berjamaah di Masjidil Haram[cite: 1, 9]." },
+            { "time": "06:30", "description": "Sarapan pagi di hotel dan berkumpul untuk evaluasi ibadah umrah[cite: 1, 9]." },
+            { "time": "09:00-11:00", "description": "Istirahat atau memperbanyak ibadah sekaligus persiapan Shalat Jumat[cite: 1, 9]." },
+            { "time": "11:30", "description": "Melaksanakan Shalat Jumat di Masjidil Haram, dilanjutkan makan siang di hotel[cite: 1, 9]." },
+            { "time": "15:00", "description": "Shalat Ashar berjamaah di Masjidil Haram, dilanjutkan istirahat atau memperbanyak ibadah[cite: 1, 9]." },
+            { "time": "18:00-19:30", "description": "Shalat Magrib berjamaah, dzikir, membaca Al-Qur'an hingga Shalat Isya[cite: 1, 9, 10]." },
+            { "time": "20:00", "description": "Makan malam di hotel[cite: 1, 10]." },
+            { "time": "22:00", "description": "Istirahat[cite: 1, 10]." }
+        ]
+    },
+    {
+        "day": "Hari 7",
+        "title": "City Tour Makkah & Umroh Kedua (Opsional)",
+        "icon": "tour",
+        "tasks": [
+            { "time": "03:30", "description": "Shalat Malam dan Shalat Subuh berjamaah di Masjidil Haram (pakaian bebas, lalu bersiap ihram jika ikut umroh kedua)[cite: 1, 10]." },
+            { "time": "06:00", "description": "Sarapan pagi di hotel[cite: 1, 10]." },
+            { "time": "07:00", "description": "Berkumpul di lobi untuk ziarah Makkah: Jabal Tsur, Jabal Rahmah, Muzdalifah, Mina, Gua Hira, dan mengambil miqat di Ji'ranah/Ma'la[cite: 1, 10, 11]." },
+            { "time": "11:30", "description": "Kembali ke hotel, Shalat Zuhur di Masjidil Haram, dan makan siang[cite: 1, 11]." },
+            { "time": "13:30", "description": "Persiapan ke Masjidil Haram untuk Thawaf, Sa'i, dan Tahallul bagi yang umroh kedua[cite: 1, 11]." },
+            { "time": "17:00", "description": "Shalat Magrib berjamaah, dzikir, membaca Al-Qur'an hingga Shalat Isya[cite: 1, 11]." },
+            { "time": "19:00", "description": "Shalat Isya berjamaah di Masjidil Haram[cite: 1, 11]." },
+            { "time": "20:00", "description": "Makan malam di hotel dan istirahat[cite: 1, 11]." }
+        ]
+    },
+    {
+        "day": "Hari 8",
+        "title": "Ziarah Kota Thaif",
+        "icon": "tour",
+        "tasks": [
+            { "time": "03:30", "description": "Persiapan melaksanakan Shalat Malam dan Shalat Subuh berjamaah di Masjidil Haram[cite: 1, 11]." },
+            { "time": "06:30", "description": "Sarapan pagi di hotel[cite: 1, 11, 12]." },
+            { "time": "07:30-16:00", "description": "Ziarah ke Kota Thaif: Mengunjungi Masjid Abdullah ibn Abbas, pabrik parfum, naik kereta gantung (Telefric), makan siang, dan Shalat Zuhur[cite: 1, 12, 13, 14]." },
+            { "time": "16:30", "description": "Perjalanan kembali menuju Makkah[cite: 1, 14]." },
+            { "time": "18:00", "description": "Istirahat dan persiapan Shalat Magrib[cite: 1, 14]." },
+            { "time": "18:30-19:30", "description": "Shalat Magrib berjamaah, dzikir, membaca Al-Qur'an hingga Shalat Isya[cite: 1, 14]." },
+            { "time": "19:30", "description": "Shalat Isya berjamaah di Masjidil Haram[cite: 1, 14]." },
+            { "time": "20:00", "description": "Makan malam di hotel, free program, dan packing koper untuk persiapan pulang[cite: 1, 14]." },
+            { "time": "22:00", "description": "Istirahat[cite: 1, 14]." }
+        ]
+    },
+    {
+        "day": "Hari 9",
+        "title": "Tawaf Wada & Perjalanan ke Jeddah",
+        "icon": "send",
+        "tasks": [
+            { "time": "03:00", "description": "Bersiap melaksanakan Shalat Malam dan Shalat Subuh berjamaah di Masjidil Haram (menggunakan seragam)[cite: 1, 14, 15]." },
+            { "time": "07:00", "description": "Sarapan pagi di hotel[cite: 1, 15]." },
+            { "time": "10:00", "description": "Koper sudah diletakkan di depan kamar masing-masing[cite: 1, 15]." },
+            { "time": "10:00-11:00", "description": "Pelaksanaan Tawaf Wada'[cite: 1, 15]." },
+            { "time": "11:00-12:00", "description": "Shalat Zuhur dan Ashar di Masjidil Haram[cite: 1, 15]." },
+            { "time": "13:00-14:40", "description": "Perjalanan darat menuju Jeddah sekaligus makan siang[cite: 1, 15]." },
+            { "time": "15:00", "description": "City Tour di Corniche, Jeddah[cite: 1, 15]." },
+            { "time": "18:00", "description": "Shalat Magrib & Isya, lalu melanjutkan perjalanan ke Bandara King Abdul Aziz Jeddah[cite: 1, 15]." },
+            { "time": "20:00", "description": "Proses check-in di bandara dan boarding[cite: 1, 15]." }
+        ]
+    },
+    {
+        "day": "Hari 10",
+        "title": "Penerbangan Pulang & Tiba di Bandung",
+        "icon": "home",
+        "tasks": [
+            { "time": "01:55", "description": "Penerbangan menuju Jakarta menggunakan Saudia Airlines SV 818[cite: 1, 15]." },
+            { "time": "16:00", "description": "Landing di Bandara Soekarno-Hatta, Jakarta[cite: 1, 15]." },
+            { "time": "18:00", "description": "Perjalanan darat menuju Bandung[cite: 1, 15]." },
+            { "time": "22:00", "description": "Tiba kembali di Kantor SS Umroh Bandung[cite: 1, 15]." }
+        ]
+    }
+]

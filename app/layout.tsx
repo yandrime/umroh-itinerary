@@ -2,12 +2,11 @@ import type React from "react"
 import type { Metadata } from "next"
 import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
-import { Analytics } from "@vercel/analytics/next"
 import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Umroh AY - Itinerary Umroh AY",
+  title: "Umroh Itinerary",
   description: "Aplikasi itinerary umroh lengkap",
   generator: "v0.app",
   manifest: "/manifest.json",
@@ -26,12 +25,12 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: "Umroh AY",
-    title: "Umroh AY - Itinerary Umroh AY",
+    title: "Umroh Itinerary",
     description: "Aplikasi itinerary umroh lengkap",
   },
   twitter: {
     card: "summary",
-    title: "Umroh AY - Itinerary Umroh AY",
+    title: "Umroh Itinerary",
     description: "Aplikasi itinerary umroh lengkap",
   },
 }
@@ -42,7 +41,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="id">
+    <html lang="id" className="dark">
       <head>
         <meta name="application-name" content="Umroh AY" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -62,7 +61,6 @@ export default function RootLayout({
       </head>
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable}`}>
         <Suspense fallback={null}>{children}</Suspense>
-        <Analytics />
       </body>
     </html>
   )

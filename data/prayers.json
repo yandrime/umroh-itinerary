@@ -1,0 +1,112 @@
+[
+  {
+    "id": "doa-1",
+    "title": "Niat Umroh",
+    "notes": "Diucapkan setelah shalat sunnah (jika memungkinkan) saat di Miqat.",
+    "arabic": "لَبَّيْكَ اللَّهُمَّ عُمْرَةً",
+    "transliteration": "Labbaikallahumma 'umratan.",
+    "translation": "Aku penuhi panggilan-Mu ya Allah untuk menjalankan umrah."
+  },
+  {
+    "id": "doa-2",
+    "title": "Niat Bersyarat (Jika khawatir ada halangan)",
+    "arabic": "اللَّهُمَّ مَحِلَي حَيْثُ حَبَسْتَنِي",
+    "transliteration": "Allahumma mahilli haitsu habastani.",
+    "translation": "Ya Allah, tempat tahallulku adalah di mana pun Engkau menahanku."
+  },
+  {
+    "id": "doa-3",
+    "title": "Bacaan Talbiyah",
+    "notes": "Dibaca berulang kali setelah niat ihram hingga memulai Thawaf. Laki-laki disunnahkan mengeraskan suaranya.",
+    "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
+    "transliteration": "Labbaykallahumma labbayk. Labbayka lä syarika laka labbayk. Innal-hamda wan-ni'mata, laka wal-mulk, la syarīka lak.",
+    "translation": "Aku penuhi panggilan-Mu, ya Allah, aku penuhi panggilan-Mu. Aku penuhi panggilan-Mu, tiada sekutu bagi-Mu, aku penuhi panggilan-Mu. Sesungguhnya segala puji, nikmat, dan kekuasaan hanyalah milik-Mu, tiada sekutu bagi-Mu."
+  },
+  {
+    "id": "doa-4",
+    "title": "Doa Saat Masuk Kota Makkah",
+    "notes": "Dibaca ketika memasuki batas Kota Makkah.",
+    "arabic": "اللَّهُمَّ هَذَا حَرَمُكَ وَأَمْنُكَ ، فَحَرِمْ لَحْمِي وَدَمِيْ وَبَشَرِيْ عَلَى النَّارِ وَ آمِنِي مِنْ عَذَابِكَ يَوْمَ تَبْعَثُ عِبَادَكَ، وَاجْعَلْنِي مِنْ أَوْلِيَا بِكَ وَأَهْلِ طَاعَتِكَ، يَارَبَّ الْعَالَمِينَ",
+    "transliteration": "Allahumma haadzaa haramuka wa amnuka, faharrim lahmii wa damii wa basyarii 'alan-naar. Wa aaminii min 'adzaabika yauma tab'atsu 'ibaadaka, waj'alnii min auliyaa-ika wa ahli thaa'atika, yaa rabbal 'aalamiin.",
+    "translation": "Ya Allah, ini adalah tanah haram-Mu dan negeri aman-Mu. Haramkanlah daging, darah dan kulitku atas api neraka. Dan amankanlah aku dari azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu. Dan jadikanlah aku termasuk kelompok kekasih-Mu dan orang-orang yang rajin serta taat kepada-Mu, wahai Rabb seru sekalian alam."
+  },
+  {
+    "id": "doa-5",
+    "title": "Doa Masuk Masjidil Haram",
+    "notes": "Dianjurkan mendahulukan kaki kanan saat masuk.",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "transliteration": "Allahummaftahli abwaaba rahmatik.",
+    "translation": "Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu."
+  },
+  {
+    "id": "doa-6",
+    "title": "Doa Pertama Kali Melihat Ka'bah",
+    "notes": "Berhenti membaca Talbiyah, angkat tangan lalu berdoa.",
+    "arabic": "اللَّهُمَّ أَنْتَ السَّلامُ، وَمِنْكَ السَّلَامُ، فَحَيْنَا رَبَّنَا بِالسَّلَامِ",
+    "transliteration": "Allahumma antas-salām, wa minkas-salām, fahayyinā rabbanā bis-salām.",
+    "translation": "Ya Allah, Engkaulah As-Salam (Maha Pemberi Keselamatan), dan dari-Mu-lah segala keselamatan. Maka hidupkanlah kami, wahai Tuhan kami, dengan selamat sejahtera."
+  },
+  {
+    "id": "doa-7",
+    "title": "Doa Memulai Thawaf (Di Hajar Aswad)",
+    "notes": "Mulai dari garis Hajar Aswad, beri isyarat dengan tangan kanan (istilam) dan ucapkan:",
+    "arabic": "بِسْمِ اللَّهِ، وَاللَّهُ أَكْبَرُ",
+    "transliteration": "Bismillāhi, wallāhu akbar.",
+    "translation": "Dengan nama Allah, dan Allah Maha Besar."
+  },
+  {
+    "id": "doa-8",
+    "title": "Doa Antara Rukun Yamani & Hajar Aswad",
+    "notes": "Dibaca setiap putaran thawaf di antara Rukun Yamani dan Hajar Aswad.",
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Rabbanā, ātinā fid-dunyā hasanah, wa fil-akhirati hasanah, wa qinā adzāban-nār.",
+    "translation": "Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka."
+  },
+  {
+    "id": "doa-9",
+    "title": "Bacaan Sebelum Shalat Sunnah Thawaf",
+    "notes": "Dibaca saat menuju ke belakang Maqam Ibrahim.",
+    "arabic": "وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلَّى",
+    "transliteration": "Wattakhidzuu min maqoomi ibroohiima musholla.",
+    "translation": "Dan jadikanlah sebagian maqam Ibrahim tempat shalat."
+  },
+  {
+    "id": "doa-10",
+    "title": "Doa Minum Air Zamzam",
+    "notes": "Disunnahkan menghadap Ka'bah saat minum.",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا وَاسِعًا، وَشِفَاءً مِنْ كُلِّ دَاءٍ",
+    "transliteration": "Allāhumma innī as-aluka 'ilman nāfi'an, wa rizqan wāsi'an, wa syifa'an min kulli dā-in.",
+    "translation": "Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang luas, dan kesembuhan dari segala penyakit."
+  },
+  {
+    "id": "doa-11",
+    "title": "Doa Saat Mendekati Bukit Shafa",
+    "notes": "Dibaca sekali sesaat sebelum sampai di Shafa untuk memulai Sa'i.",
+    "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ",
+    "transliteration": "Innas-shafaa wal marwata min sya'aa-irillaah...",
+    "translation": "Sesungguhnya Shafa dan Marwah adalah sebagian dari syi'ar Allah..."
+  },
+  {
+    "id": "doa-12",
+    "title": "Lanjutan Saat Mendekati Bukit Shafa",
+    "notes": "Dibaca setelah kalimat di atas.",
+    "arabic": "أَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ",
+    "transliteration": "Abda-u bimaa bada-allaahu bih.",
+    "translation": "Aku memulai dengan apa yang Allah memulainya."
+  },
+  {
+    "id": "doa-13",
+    "title": "Dzikir & Doa di Atas Bukit Shafa & Marwah",
+    "notes": "Dibaca 3 kali di atas Shafa & Marwah sambil menghadap Ka'bah dan mengangkat tangan.",
+    "arabic": "اللهُ أَكْبَرُ، اللَّهُ أَكْبَرُ ، اللهُ أَكْبَرُ. لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ، أَنْجَزَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزَابَ وَحْدَهُ",
+    "translation": "Allah Maha Besar (3x). Tiada Tuhan selain Allah semata, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan pujian. Dia-lah Yang Maha Kuasa atas segala sesuatu. Tiada Tuhan selain Allah semata. Dia menepati janji-Nya, menolong hamba-Nya, dan mengalahkan golongan musuh sendirian."
+  },
+  {
+    "id": "doa-14",
+    "title": "Doa Selama Perjalanan Sa'i",
+    "notes": "Dianjurkan untuk dibaca berulang-ulang selama perjalanan di antara Shafa dan Marwah.",
+    "arabic": "رَبِّ اغْفِرْ وَارْحَمْ، وَأَنْتَ الْأَعَزُّ الْأَكْرَمُ",
+    "transliteration": "Rabbighfir warham, wa antal a'azzul akram.",
+    "translation": "Ya Tuhanku, ampunilah dan berilah rahmat. Sesungguhnya Engkau Maha Perkasa lagi Maha Pemurah."
+  }
+]
